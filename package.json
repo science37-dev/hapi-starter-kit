@@ -10,7 +10,7 @@
   "dependencies": {
     "boom": "^7.1.1",
     "hapi": "^18.1.0",
-    "@hapi/joi": "^15.0.3",
+    "@hapi/joi": "^15.1.1",
     "hapi-swagger": "^9.4.2",
     "inert": "^5.1.0",
     "vision": "^5.4.4"
